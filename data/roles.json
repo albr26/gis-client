@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b",
+    "name": "Supervisor",
+    "index": "Supervisor",
+    "access": {}
+  },
+  {
+    "id": "a",
+    "name": "Admin",
+    "index": "Admin",
+    "access": {}
+  }
+]
